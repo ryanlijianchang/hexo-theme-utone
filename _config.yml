@@ -3,6 +3,8 @@ menu:
   home: /
   archives: /archives
   about: /about
+  adv: /adv
+  links: /links
   RSS: /atom.xml
 
 #logo
